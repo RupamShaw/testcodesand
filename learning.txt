@@ -1,3 +1,7 @@
 https://drive.google.com/drive/folders/0B3SQ1qU-hwlFZ2U2VkppQ19wUms 
 
 this gdrv having full webpack video
+
+initially demo.html runs by file on browser have webpack.config.js
+
+>webpack //to build files in bundle.

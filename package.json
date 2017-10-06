@@ -1,0 +1,19 @@
+{
+  "name": "webpackstart",
+  "version": "1.0.0",
+  "description": "start simple hello from webpack",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RupamShaw/webpack-start.git"
+  },
+  "author": "rupam <rupam.shaw@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/RupamShaw/webpack-start/issues"
+  },
+  "homepage": "https://github.com/RupamShaw/webpack-start#readme"
+}
